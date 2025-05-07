@@ -1,7 +1,9 @@
+# Información del Alumno
+
 | Nombre | Usuario | Correo |
 |----------|----------|----------|
-| Benjamin Maldonado | Benjakdkdnw | bmaldonadolabra@estudiante.uc.cl |
+| Benjamin Maldonado | Benjakdkdnw | <bmaldonadolabra@estudiante.uc.cl> |
 
-# Aportes
+## Aportes
 
 Benjamin Maldonado: Todo 😋👍
